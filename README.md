@@ -8,12 +8,10 @@ docker command completion for the fish shell.
 
 Installation
 ------------
-    mkdir ~/.config/fish/completions
-    wget https://raw.github.com/barnybug/docker-fish-completion/master/docker.fish -O ~/.config/fish/completions/docker.fish
 
-### [Fisherman](https://github.com/fisherman/fisherman)
+### [Fisher 4.0+](https://github.com/jorgebucaran/fisher)
 
-    fisher install barnybug/docker-fish-completion
+    fisher install topdroplabs/docker-fish-completion
 
 fish will show up the new completions straight away, no reload necessary.
     
